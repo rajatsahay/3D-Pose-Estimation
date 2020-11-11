@@ -1,12 +1,12 @@
-# 3D-Pose-Estimation
-Ongoing <br>
-Julieta Martinez, Rayat Hossain, Javier Romero, James J. Little. A simple yet effective baseline for 3d human pose estimation. In ICCV, 2017. https://arxiv.org/pdf/1705.03098.pdf.
+# Voxel-Gen
+Paper: 3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction <br>
 ```
-@inproceedings{martinez_2017_3dbaseline,
-  title={A simple yet effective baseline for 3d human pose estimation},
-  author={Martinez, Julieta and Hossain, Rayat and Romero, Javier and Little, James J.},
-  booktitle={ICCV},
-  year={2017}
+@misc{choy20163dr2n2,
+      title={3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction}, 
+      author={Christopher B. Choy and Danfei Xu and JunYoung Gwak and Kevin Chen and Silvio Savarese},
+      year={2016},
+      eprint={1604.00449},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
-
